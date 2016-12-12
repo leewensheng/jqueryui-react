@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/leewensheng/jqueryui-react/issues"
   },
-  "homepage": "https://github.com/leewensheng/jqueryui-react#readme"
+  "homepage": "https://github.com/leewensheng/jqueryui-react#readme",
+  "devDependencies": {
+    "react": "^15.4.1"
+  }
 }
